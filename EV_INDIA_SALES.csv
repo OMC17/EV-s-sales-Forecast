@@ -1,0 +1,27 @@
+region,category,parameter,mode,powertrain,year,unit,value
+India,Historical,EV sales,Cars,BEV,2010,Vehicles,450
+India,Historical,EV sales,Cars,BEV,2011,Vehicles,1400
+India,Historical,EV sales,Cars,BEV,2012,Vehicles,190
+India,Historical,EV sales,Cars,BEV,2013,Vehicles,410
+India,Historical,EV sales,Cars,BEV,2014,Vehicles,1000
+India,Historical,EV sales,Cars,BEV,2015,Vehicles,450
+India,Historical,EV sales,Cars,BEV,2016,Vehicles,730
+India,Historical,EV sales,Cars,BEV,2017,Vehicles,920
+India,Historical,EV sales,Cars,BEV,2018,Vehicles,920
+India,Historical,EV sales,Cars,BEV,2019,Vehicles,680
+India,Historical,EV sales,Cars,PHEV,2019,Vehicles,7
+India,Historical,EV sales,Cars,PHEV,2020,Vehicles,43
+India,Historical,EV sales,Cars,BEV,2020,Vehicles,3100
+India,Historical,EV sales,Cars,BEV,2021,Vehicles,12000
+India,Historical,EV sales,Cars,PHEV,2021,Vehicles,50
+India,Historical,EV sales,Cars,PHEV,2022,Vehicles,23
+India,Historical,EV sales,Cars,BEV,2022,Vehicles,48000
+India,Historical,EV sales,Cars,PHEV,2018,Vehicles,10
+India,Historical,EV sales,Cars,PHEV,2017,Vehicles,10
+India,Historical,EV sales,Cars,PHEV,2016,Vehicles,10
+India,Historical,EV sales,Cars,PHEV,2015,Vehicles,10
+India,Historical,EV sales,Cars,PHEV,2014,Vehicles,10
+India,Historical,EV sales,Cars,PHEV,2013,Vehicles,10
+India,Historical,EV sales,Cars,PHEV,2012,Vehicles,10
+India,Historical,EV sales,Cars,PHEV,2011,Vehicles,10
+India,Historical,EV sales,Cars,PHEV,2010,Vehicles,10

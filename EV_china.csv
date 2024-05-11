@@ -1,0 +1,27 @@
+region,category,parameter,mode,powertrain,year,unit,value
+China,Historical,EV sales,Cars,BEV,2010,Vehicles,2000
+China,Historical,EV sales,Cars,PHEV,2010,Vehicles,30
+China,Historical,EV sales,Cars,PHEV,2011,Vehicles,430
+China,Historical,EV sales,Cars,BEV,2011,Vehicles,10000
+China,Historical,EV sales,Cars,BEV,2012,Vehicles,18000
+China,Historical,EV sales,Cars,PHEV,2012,Vehicles,9000
+China,Historical,EV sales,Cars,PHEV,2013,Vehicles,26000
+China,Historical,EV sales,Cars,BEV,2013,Vehicles,33000
+China,Historical,EV sales,Cars,BEV,2014,Vehicles,62000
+China,Historical,EV sales,Cars,PHEV,2014,Vehicles,34000
+China,Historical,EV sales,Cars,PHEV,2015,Vehicles,100000
+China,Historical,EV sales,Cars,BEV,2015,Vehicles,88000
+China,Historical,EV sales,Cars,BEV,2016,Vehicles,92000
+China,Historical,EV sales,Cars,PHEV,2016,Vehicles,120000
+China,Historical,EV sales,Cars,PHEV,2017,Vehicles,160000
+China,Historical,EV sales,Cars,BEV,2017,Vehicles,140000
+China,Historical,EV sales,Cars,BEV,2018,Vehicles,200000
+China,Historical,EV sales,Cars,PHEV,2018,Vehicles,190000
+China,Historical,EV sales,Cars,PHEV,2019,Vehicles,210000
+China,Historical,EV sales,Cars,BEV,2019,Vehicles,360000
+China,Historical,EV sales,Cars,BEV,2020,Vehicles,750000
+China,Historical,EV sales,Cars,PHEV,2020,Vehicles,630000
+China,Historical,EV sales,Cars,PHEV,2021,Vehicles,1100000
+China,Historical,EV sales,Cars,BEV,2021,Vehicles,1200000
+China,Historical,EV sales,Cars,BEV,2022,Vehicles,1600000
+China,Historical,EV sales,Cars,PHEV,2022,Vehicles,1000000
